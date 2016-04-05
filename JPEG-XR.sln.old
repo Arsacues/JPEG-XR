@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JPEG-XR", "JPEG-XR\JPEG-XR.vcproj", "{9241D701-ECE7-4AF2-BE99-C0827573CCFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9241D701-ECE7-4AF2-BE99-C0827573CCFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9241D701-ECE7-4AF2-BE99-C0827573CCFA}.Debug|Win32.Build.0 = Debug|Win32
+		{9241D701-ECE7-4AF2-BE99-C0827573CCFA}.Release|Win32.ActiveCfg = Release|Win32
+		{9241D701-ECE7-4AF2-BE99-C0827573CCFA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
